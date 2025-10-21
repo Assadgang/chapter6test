@@ -1,5 +1,6 @@
 # chapter6test
 ## 교육
+### 서울시 초등학교 개수 데이터
 
 
 [서울시 학교 데이터 셋] (https://data.seoul.go.kr/dataList/201/S/2/datasetView.do)
